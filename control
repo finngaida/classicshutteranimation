@@ -1,0 +1,10 @@
+Package: de.finngaida.classicshutteranimation
+Name: ClassicShutterAnimation
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Bring back the awesome pre-iOS 7 Camera shutter animation!
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.classicshutteranimation
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
